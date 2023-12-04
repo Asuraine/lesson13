@@ -7,7 +7,7 @@ public class Bike extends  LinkToTransport implements Transport {
     @Override
     public boolean move(int distance, Location location, Human driver) {
         System.out.println();
-        System.out.println("Поедет при помощи " + transportName +
+        System.out.println(" Поедет при помощи " + transportName +
                 " по местности: " +  location.getNameRus() +
                 " на " + distance + " км.");
 

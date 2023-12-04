@@ -75,7 +75,7 @@ public class Human {
                 return false;
             }
 
-            System.out.println("Остаток сил у человека до перемещения: " + (float) hPower);
+            System.out.println(" Остаток сил у человека до перемещения: " + (float) hPower);
             System.out.println(
                     name + " успешно переместился пешком по местности: " + location.getNameRus() + " на "
                             + distance + " км.");

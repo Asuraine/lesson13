@@ -5,7 +5,7 @@ public class Main {
 
     Human human = new Human("Lena");
 
-    Transport transportCar = new Car("Автомобиль");
+    Transport transportCar = new Car(" Автомобиль");
     Transport transportOfRoader = new AllterrainVehicle("Вездеход");
     Transport transportHorse = new Horse("Лошадь");
     Transport transportBicycle = new Bike("Велосипед");
