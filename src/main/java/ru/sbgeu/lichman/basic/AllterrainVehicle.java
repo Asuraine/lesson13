@@ -35,7 +35,7 @@ public class AllterrainVehicle extends  LinkToTransport implements Transport  {
                 return false;
             }
 
-            System.out.println("Осталось топливо: " + (float) Volume + " л.");
+            System.out.println(" Осталось топливо: " + (float) Volume + " л.");
             System.out.println(transportName + " успешно переместился по местности: "
                     + location.getNameRus()
                     + " на " + distance + " км.");

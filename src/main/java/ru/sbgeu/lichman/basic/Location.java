@@ -6,6 +6,7 @@ public enum Location {
     SWAMP("Болото");
     private String nameRus;
 
+
     public String getNameRus(){
         return nameRus;
     }

@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca42f413-7f7d-4baa-9bd5-a0bd9bfa57c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ca42f413-7f7d-4baa-9bd5-a0bd9bfa57c2" name="Changes" comment="new prog finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/AllterrainVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/AllterrainVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/LinkToTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/LinkToTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Location.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sbgeu/lichman/basic/Transport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -37,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "lesson13",
     "last_opened_file_path": "C:/Users/79618/IdeaProjects/lesson13"
   }
 }]]></component>
@@ -50,6 +62,37 @@
       <option name="presentableId" value="Default" />
       <updated>1700117437252</updated>
     </task>
+    <task id="LOCAL-00001" summary="new prog">
+      <option name="closed" value="true" />
+      <created>1701705373522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701705373522</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new prog finish">
+      <option name="closed" value="true" />
+      <created>1701705411010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701705411010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new prog finish1">
+      <option name="closed" value="true" />
+      <created>1701705719420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701705719420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new prog" />
+    <MESSAGE value="new prog finish" />
+    <MESSAGE value="new prog finish1" />
+    <option name="LAST_COMMIT_MESSAGE" value="new prog finish1" />
   </component>
 </project>

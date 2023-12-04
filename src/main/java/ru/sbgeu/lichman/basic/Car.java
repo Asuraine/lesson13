@@ -40,7 +40,7 @@ public class Car extends LinkToTransport implements Transport {
             return false;
         }
 
-        System.out.println("Осталось топливо: " + (float) fuelVolume + " л.");
+        System.out.println(" Осталось топливо: " + (float) fuelVolume + " л.");
         System.out.println(transportName + " успешно переместился по местности: " + location.getNameRus() + " на " + distance + " км.");
         decreaseFuelVolume(distance);
         System.out.println("Осталось топливо: " + (float) fuelVolume + " л.");
